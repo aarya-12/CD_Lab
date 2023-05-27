@@ -1,0 +1,216 @@
+Aarya M
+TCS
+F
+9.9
+CSE
+600000
+marya@rknec.edu
+9999999999
+Tony S
+Infosys
+M
+9.4
+CSE
+500000
+stony@rknec.edu
+9999899998
+Shruti F
+Wipro
+F
+9.9
+IT
+400000
+fshruti@rknec.edu
+9997999979
+Sanika L
+Accenture
+F
+9.4
+EC
+600000
+lsanika@rknec.edu
+9999599995
+Raghav L
+Informatica
+M
+9.2
+EC
+650000
+lraghav@rknec.edu
+9999599945
+Rahul K
+Accenture
+M
+9.1
+IT
+750000
+krahul@rknec.edu
+9994599995
+Sakshi P
+Wipro
+F
+9.5
+CSE
+850000
+psakshi@rknec.edu
+9499599995
+Shweta K
+Wipro
+F
+9.8
+IT
+600000
+kshweta@rknec.edu
+9299599995
+Sanjeev R
+Accenture
+M
+9.6
+EC
+620000
+rsanjeev@rknec.edu
+9999599335
+Rakesh H
+Accenture
+M
+9.4
+EC
+600000
+hrakesh@rknec.edu
+9922599995
+Mangesh P
+TCS
+M
+9.1
+IT
+500000
+pmangesh@rknec.edu
+9924599995
+Aisha R
+Accenture
+F
+9.7
+CSE
+730000
+raisha@rknec.edu
+9789599995
+Raunak L
+TCS
+M
+9.4
+CSE
+650000
+lraunak@rknec.edu
+9999599125
+Yash L
+Informatica
+M
+9.3
+CSE
+620000
+lyash@rknec.edu
+9999599195
+Abhinav M
+Wipro
+M
+9.3
+EC
+610000
+mabhinav@rknec.edu
+9199599995
+Liam L
+Wipro
+M
+9.4
+CSE
+700000
+lliam@rknec.edu
+9299599995
+Olivia K
+Informatica
+F
+9.4
+IT
+650000
+kolivia@rknec.edu
+9999592995
+Emma R
+Infosys
+F
+9.3
+CSE
+750000
+remma@rknec.edu
+9129599995
+Amelia S
+TCS
+F
+9.9
+CSE
+760000
+samelia@rknec.edu
+9111599995
+Aarav L
+Informatica
+M
+9.5
+CSE
+700000
+laarav@rknec.edu
+9999591115
+Arnav B
+Infosys
+M
+9.4
+IT
+80000
+bArnav@rknec.edu
+9222599995
+Aadi J
+Accenture
+M
+9.4
+CSE
+230000
+jaadi@rknec.edu
+9999599225
+Vihaan L
+Infosys
+M
+9.7
+CSE
+600000
+lsvihaan@rknec.edu
+9943599995
+Aahana K
+Informatica
+F
+9.7
+IT
+520000
+kaahana@rknec.edu
+9129599995
+Advik S
+Accenture
+M
+9.5
+EC
+400000
+sadvik@rknec.edu
+9999511195
+Anika M
+Informatica
+F
+9.4
+CSE
+720000
+manika@rknec.edu
+9129599995
+Akshay K
+Infosys
+M
+9.4
+CSE
+120000
+kakshay@rknec.edu
+9111599995
